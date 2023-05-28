@@ -1,0 +1,23 @@
+/* CSS Document */
+
+body {
+	background-image: linear-gradient(to right, black , navy);
+	padding: 3%;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+h2 {
+	color: lightgreen;
+	text-align: center;
+}
+h3 {
+  color: lightblue;
+}
+
+p {
+  color: lightgray;
+}
+
